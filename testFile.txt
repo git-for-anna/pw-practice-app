@@ -3,3 +3,6 @@ this is a test phrase one
 this is a next line of code
 
 added something
+this is a second word
+
+new changes
